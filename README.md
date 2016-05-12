@@ -1,4 +1,4 @@
-# Google Sheets API Codelab
+# Using Google Play Game Services in Unity Codelab
 
 This folder contains the source code for a Google I/O 2016 codelab.
 
